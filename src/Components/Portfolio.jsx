@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/desk.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desk with and laptop and chair";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Gym Business website 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Responsive website for a gym business. It is a static website with HTML, CSS and JavaScript. It is a responsive website with a hamburger menu for mobile devices.",
+    url: "https://khushsoni.github.io/megym.github.io/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Person Detection",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "One of the most promising applications of computer vision is person detection, which involves identifying and locating individuals in images or videos.",
+    url: "https://github.com/khushsoni/CSE-541-Computer-Vision-2023-Visionaries_4.0",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "My resume in one page",
+    url: "https://bento.me/khushs",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "LinkedIn Profile",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Let's connect professionally on LinkedIn.",
+    url: "https://www.linkedin.com/in/khush-soni-145463202/",
   },
 ];
 
